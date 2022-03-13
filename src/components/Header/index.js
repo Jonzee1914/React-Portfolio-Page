@@ -11,18 +11,22 @@ class Header extends Component {
     return (
         <HashRouter>
             <div className="row Header" id="header">
+                <a href="#my-pic">
+                    <img src="./assets/images/erikjonesname.png" alt="" />
+                </a>
                 <Navigation/>
             </div>
-    
+        
+ 
 
-    <div className="content">
-          <Route exact path="/" render={() => (<Redirect to="/portfolio"/>)}/>
-          <Route path="/portfolio" component={Portfolio}/>
-          <Route path="/about" component={About}/>
-          <Route path="/contact" component={Contact}/>
-          <Route path="/resume" component={Resume}/>
-        </div>
-    </HashRouter>
+            <div className="content">
+                <Route exact path="/" render={() => (<Redirect to="/portfolio"/>)}/>
+                <Route path="/portfolio" component={Portfolio}/>
+                <Route path="/about" component={About}/>
+                <Route path="/contact" component={Contact}/>
+                <Route path="/resume" component={Resume}/>
+            </div>
+        </HashRouter>
     )
 }
 }
