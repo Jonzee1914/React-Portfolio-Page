@@ -5,7 +5,7 @@
 This is a personal portfolio of my work within the UCF coding bootcamp. It is built using React inorder to create a complete portfolio site within a SPA.  
 
 ### Preview
-![](https://github.com/Jonzee1914/Go-Anywhere-Budget-Tracker/blob/main/React-Portfolio-Page.gif?raw=true)
+![](https://github.com/Jonzee1914/React-Portfolio-Page/blob/main/React-Portfolio-Page.gif?raw=true)
 
 ## Table of Contents 
 
