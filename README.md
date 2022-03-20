@@ -6,6 +6,7 @@ This is a personal portfolio of my work within the UCF coding bootcamp. It is bu
 
 ### Preview
 ![](https://github.com/Jonzee1914/React-Portfolio-Page/blob/main/React-Portfolio-Page.gif?raw=true)
+### Link to deployed site: https://jonzee1914.github.io/React-Portfolio-Page/
 
 ## Table of Contents 
 
